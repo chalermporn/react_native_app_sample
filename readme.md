@@ -46,5 +46,6 @@ $ npm start
 ```
 ## Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="graphs/contributors"><img src="https://opencollective.com/create-react-native-app/contributors.svg?width=890&button=false" /></a>
+This project exists thanks to all the people who contribute. 
+
+<a href="https://github.com/chalermporn"><img src="https://avatars3.githubusercontent.com/u/5188756?s=460&v=4" width="50"/></a>
