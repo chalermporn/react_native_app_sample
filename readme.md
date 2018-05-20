@@ -1,5 +1,12 @@
 # React Native App Sample
 
+<p align="center">
+    <img alt="ANDROID" src="./screens/Screen Shot 2561-05-20 at 18.15.23.png" height="450">
+     <img alt="IOS" src="./screens/Screen Shot 2561-05-20 at 18.15.33.png" height="450">
+</p>
+</p>
+
+
 ## Quick Overview
 
 Make sure you have Node v6 or later installed. No Xcode or Android Studio installation is required.
@@ -37,3 +44,7 @@ $ npm start
   "gitlens.historyExplorer.enabled": true
 }
 ```
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="graphs/contributors"><img src="https://opencollective.com/create-react-native-app/contributors.svg?width=890&button=false" /></a>
